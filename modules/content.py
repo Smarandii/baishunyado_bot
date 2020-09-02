@@ -1,4 +1,4 @@
-TOKEN = '1240731423:AAHlu5WRhok3HKpO_JY2--9uBjxrjxAZvfw'
+TOKEN = 'token'
 BUY_URL = 'https://capu.st/bill91a3ce66-6b39'
 BUY_INSTRUCTION_URL = 'https://t.me/baishunyado_buy'
 PREVIEW_URL = 'https://t.me/joinchat/AAAAAFSR44l0ZT78wiwIXw'
