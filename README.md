@@ -1,6 +1,4 @@
 # baishunyado_bot
-@baishunyado_bot
-
 
 # Usage:
 ![image](https://user-images.githubusercontent.com/48328325/201468767-d526216a-7f3d-4a18-814f-d43bfbc38fd6.png)
