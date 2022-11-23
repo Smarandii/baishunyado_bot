@@ -1,6 +1,16 @@
 # baishunyado_bot
 
-# Usage:
+### How to run:
+```shell
+git clone https://github.com/Smarandii/baishunyado_bot
+cd baishunyado_bot
+python -m venv venv
+.\venv\Scripts\activate
+pip install -r requirements
+python bot.py
+```
+
+### Usage:
 ![image](https://user-images.githubusercontent.com/48328325/201468767-d526216a-7f3d-4a18-814f-d43bfbc38fd6.png)
 ![image](https://user-images.githubusercontent.com/48328325/201468779-e3defc32-f750-48d2-ade5-edd529b4aa19.png)
 ![image](https://user-images.githubusercontent.com/48328325/201468786-d34c8330-d5b1-4bc2-8132-1360b4367a72.png)
